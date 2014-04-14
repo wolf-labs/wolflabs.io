@@ -1,1 +1,1 @@
-console.log("'Allo 'Allo!");
+var Wolf=function(o){function o(){console.log("howl")}return o}(window.Wolf||{},jQuery);jQuery(document).ready(function(){new Wolf});
