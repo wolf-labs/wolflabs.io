@@ -14,4 +14,4 @@ To deploy, run:
 
 Add & commit your changes. Then:
 
-`git subtree push --prefix dist ec2 master`
+`git subtree push --prefix dist ec2 production`
