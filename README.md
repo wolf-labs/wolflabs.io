@@ -10,4 +10,8 @@ To run unit tests, run `gulp test`
 
 To deploy, run:
 
+`gulp build`
+
+Add & commit your changes. Then:
+
 `git subtree push --prefix dist ec2 master`
